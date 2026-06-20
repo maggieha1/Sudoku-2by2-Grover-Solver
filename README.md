@@ -1,6 +1,4 @@
-# Sudoku-2by2-Grover-Solver
-
-**Grover's Algorithm to Solve Sudoku $2 \times $2**
+# **Grover's Algorithm to Solve Sudoku $2 \times $2**
 
 This repository contains a Jupyter notebook (`.ipynb`) that demonstrates the application of Grover's algorithm to solve a $2 \times 2$ micro-Sudoku puzzle using IBM's Qiskit framework.
 
