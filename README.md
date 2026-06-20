@@ -1,10 +1,6 @@
 # Sudoku-2by2-Grover-Solver
-The repository illustrates how to solve a Sudoku board using Grover's Quantum Algorithm using a micro-Sudoku board of a small size 2 by 2.
 
-```markdown
-# README.md
-
-# **Grover's algorithm to Solve Sudoku $2 \times $2**
+**Grover's Algorithm to Solve Sudoku $2 \times $2**
 
 This repository contains a Jupyter notebook (`.ipynb`) that demonstrates the application of Grover's algorithm to solve a $2 \times 2$ micro-Sudoku puzzle using IBM's Qiskit framework.
 
